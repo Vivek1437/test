@@ -1,6 +1,6 @@
-provider "aws" {
+provider "aws_instance" {
      access_key = ""
      secret_key = ""
-     region = ""
+     region = "us-east-2"
 
 }
